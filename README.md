@@ -4,7 +4,9 @@
 "What marketing retention campaigns could we implement to help reduce customer churn?"
 
 ## Description
-This project aims to identify marketing retention campaigns that could help reduce customer churn. I have cleaned, transformed, and validated the data, then visualized it for further analysis. The final visualizations were created for presentation, and key findings and folow up question with possible resolution were identified.
+This project aims to identify marketing retention campaigns that could help reduce customer churn.
+I have cleaned, transformed, and validated the data, then visualized it for further analysis.
+The final visualizations were created for presentation, and key findings and folow up question with possible resolution were identified.
 
 ## Audience
 Marketing Department
