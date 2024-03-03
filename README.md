@@ -21,8 +21,12 @@ Presentation
 - Average age of our customers is 46 with a Credit Limit of 8600
 
 ## Final Questions to Marketing Team
-"How can we get more customers above that 11,000 mark?"
-- Churn customers tend to drop off heavily after the New Year, showing a 55% drop in Q4 to Q1 transactions. It's a good opportunity to find and target customers who have seen or are believed to show a large drop off around the New Year and target them with special offers, discounts, cash back, or loyalty points.
+   "How can we get more customers above that 11,000 mark?"
+
+- Churn customers tend to drop off heavily after the New Year, showing a 55% drop in Q4 to Q1 transactions.
+  It's a good opportunity to find and target customers
+  who have seen or are believed to show a large drop off around the New Year and target them with special offers,
+  discounts, cash back, or loyalty points.
 - Possible marketing reengagement campaign implementation to "prevent the cliff" for those who have seen this in the past? How big is this group, and what's the potential opportunity?
 - Customer surveys
 - Offer loyalty points, cash back, etc.
